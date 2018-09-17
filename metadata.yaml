@@ -1,11 +1,16 @@
 _repo: The-Banner-Boy-Scouts-in-the-Air_52394
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52394-h/images/cover.jpg
 creator:
   author:
     agent_name: Warren, George A.
     gutenberg_agent_id: '3215'
     url: http://www.gutenberg.org/2009/agents/3215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52394#The-Banner-Boy-Scouts-in-the-Air
 gutenberg_issued: '2016-06-23'
 gutenberg_type: Text
 identifiers:
