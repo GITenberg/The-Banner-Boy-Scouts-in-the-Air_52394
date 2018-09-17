@@ -1,0 +1,25 @@
+_repo: The-Banner-Boy-Scouts-in-the-Air_52394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warren, George A.
+    gutenberg_agent_id: '3215'
+    url: http://www.gutenberg.org/2009/agents/3215
+description: ''
+gutenberg_issued: '2016-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smugglers -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Banner Boy Scouts in the Air
+url: http://www.gutenberg.org/ebooks/52394
